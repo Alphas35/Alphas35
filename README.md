@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currentl studying Industrial Engineering.
+🔭 I'm currently studying Industrial Engineering.
 🔭 I’m currently working on AKASU (Co-Founder Start-Up)<br>🌱 I’m currently learning Web Design<br>💬 Ask me about entrepreneurship, Arduino, Python.
 
 
